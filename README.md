@@ -56,6 +56,12 @@ Freelancer Hub is a full-stack Java Swing desktop application inspired by platfo
 
 ---
 
+## Entity Relationship Diagram
+
+![ER Diagram](docs/Entity_relation_diagram.png)
+
+---
+
 ## Project Structure (Database Overview)
 
 - `users`: Contains user information and user type (client/freelancer)
@@ -65,6 +71,12 @@ Freelancer Hub is a full-stack Java Swing desktop application inspired by platfo
 - `payments`: Stores approved payment details
 - `messages`: Manages in-app messaging
 - `categories`: Predefined list of job categories
+
+---
+
+## Documentation
+
+Full project documentation is available at [`docs/Documentation.pdf`](docs/Documentation.pdf).
 
 ---
 
